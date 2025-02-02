@@ -37,6 +37,10 @@ This Google Apps Script automates the process of adding timestamps and checking 
 | success       | 12:30 PM            |          |
 |               | 12:15 PM            | extended |
 
+## 🎥 Demo
+
+![Demo](https://github.com/Scotchips/Google-Sheets-Auto-Timestamp-Expiry-Checker/blob/d3ae15e1b83367c646b3a8b94edc3c29d7f3fc51/assets/Task%20Automation%20in%20Google%20Sheets.gif)
+
 ---
 
 ### 🔗 License & Contributions
