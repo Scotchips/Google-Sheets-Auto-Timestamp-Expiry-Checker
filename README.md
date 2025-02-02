@@ -5,7 +5,6 @@ This Google Apps Script automates the process of adding timestamps and checking 
 ## 🚀 Features
 - ✅ **Auto Timestamp:** When a user types `"success"` in column **A**, a timestamp (current time + 15 minutes) is added to column **B** in the same row.
 - ✅ **Auto Expiry Check:** Every minute, the script checks if the timestamp in column **B** has expired. If expired, column **C** is updated with `"extended"`.
-- ✅ **Dynamic Row Handling:** Works on any row, not just a fixed cell (A1, B1, C1).
 - ✅ **Automatic Trigger Setup:** Runs automatically every minute after initial setup.
 
 ## 🔧 How It Works
